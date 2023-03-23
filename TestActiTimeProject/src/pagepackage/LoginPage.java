@@ -45,7 +45,7 @@ public class LoginPage {
 			Thread.sleep(3000);
 		}
 		
-		//invalid Login Method
+		//invalid Login Meth
 		public void invalidLoginToActiTime(String invalidUsername,String invalidPassword) throws InterruptedException
 		{
 			usn.sendKeys(invalidUsername);
